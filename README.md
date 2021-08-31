@@ -7,7 +7,7 @@ I'm an analog, RF, and Software Engineer
 - 💼 I work at [Skyworks](https://www.skyworksinc.com/) as an analog and RF designer working on SOI Switch development for cell phones
 - 📫 How to reach me: E-mail
 - 💻 Software Interests:
-  - Python for design automation backend and frontend development
+  - [Python](https://www.python.org/) for design automation backend and frontend development
   - [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation frontend development
   - [Conda](https://docs.conda.io/en/latest/) for packaging
   - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
