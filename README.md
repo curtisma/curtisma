@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Curtis Mayberry 👋
+
+I'm an analog, RF, and Software Engineer
+
+- 🔭 I’m currently working on automating the design of Analog and RF Integrated circuits
+- 🤔 I’m looking for help with design automation
+- 💼 I work at [Skyworks](https://www.skyworksinc.com/) as a analog and RF designer working on SOI Switch development for cell phones
+- 📫 How to reach me: Through E-mail
+- Software Interests:
+  - Python for design automation backend development
+  - [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation front-end development
+  - [Conda](https://docs.conda.io/en/latest/) for packaging
+  - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
 
 <!--
 **curtisma/curtisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
