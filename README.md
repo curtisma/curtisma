@@ -2,7 +2,7 @@
 
 I'm an analog, RF, and Software Engineer
 
-- 🦾 I’m currently working on automating the design of Analog and RF Integrated circuits
+- 🦾 I’m currently working on automating the design of RF, analog, and mixed-signal Integrated circuits
 - 👯 I’m looking to collaborate on starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
 - 💼 I work at [Skyworks](https://www.skyworksinc.com/) as an analog and RF designer working on SOI Switch development for cell phone analog frontends
 - 📫 How to reach me:  Open a post on my [profile discussion board](https://github.com/curtisma/curtisma/discussions) or E-mail
@@ -12,6 +12,7 @@ I'm an analog, RF, and Software Engineer
   - [Conda](https://docs.conda.io/en/latest/) for packaging and environment management
   - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
 - ✨I'm also interested in developing a great engineering team and improving helping those I lead develop
+  - Let me know if you have an interest in RF, analog, mixed-signal, and software engineering, we're always looking to hire remarkable candidates
 
 
 <!--
