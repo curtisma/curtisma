@@ -1,6 +1,6 @@
 ### Hi there, I'm Curtis Mayberry 👋
 
-I'm an analog, RF, and Software Engineer
+I'm an analog, mixed-signal, RF, and software design engineer.
 
 - 🦾 I’m currently working on automating the design of RF, analog, and mixed-signal Integrated circuits
 - 👯 I’m looking to collaborate on starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
