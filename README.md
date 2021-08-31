@@ -11,7 +11,7 @@ I'm an analog, RF, and Software Engineer
   - [Scipy](https://www.scipy.org/) scientific python stack for processing and visualizing data
   - [Conda](https://docs.conda.io/en/latest/) for packaging and environment management
   - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
-- ✨I'm also interested in developing great engineering teams and improving how I lead my team
+- ✨I'm also interested in developing great engineering team and improving how I lead my team
 
 
 <!--
