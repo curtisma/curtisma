@@ -6,7 +6,7 @@ I'm an analog, RF, and Software Engineer
 - 🤔 I’m looking for help starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
 - 💼 I work at [Skyworks](https://www.skyworksinc.com/) as an analog and RF designer working on SOI Switch development for cell phones
 - 📫 How to reach me: Through E-mail
-- Software Interests:
+- 💻 Software Interests:
   - Python for design automation backend and frontend development
   - [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation frontend development
   - [Conda](https://docs.conda.io/en/latest/) for packaging
