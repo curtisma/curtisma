@@ -12,7 +12,7 @@ I'm an analog, RF, and Software Engineer
   - [Conda](https://docs.conda.io/en/latest/) for packaging and environment management
   - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
 - ✨I'm also interested in developing a great engineering team and improving helping those I lead develop
-  - Let me know if you have an interest in RF, analog, mixed-signal, and software engineering, we're always looking to hire remarkable candidates
+  - Let me know if you have an interest in RF, analog, mixed-signal design and software engineering, we're always looking to hire remarkable candidates
 
 
 <!--
