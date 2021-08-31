@@ -3,14 +3,15 @@
 I'm an analog, RF, and Software Engineer
 
 - 🔭 I’m currently working on automating the design of Analog and RF Integrated circuits
-- 🤔 I’m looking for help starting [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF design automation projects
-- 💼 I work at [Skyworks](https://www.skyworksinc.com/) as a analog and RF designer working on SOI Switch development for cell phones
+- 🤔 I’m looking for help starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
+- 💼 I work at [Skyworks](https://www.skyworksinc.com/) as an analog and RF designer working on SOI Switch development for cell phones
 - 📫 How to reach me: Through E-mail
 - Software Interests:
-  - Python for design automation backend development
+  - Python for design automation backend and frontend development
   - [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation frontend development
   - [Conda](https://docs.conda.io/en/latest/) for packaging
   - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
+  - [Scipy](https://www.scipy.org/) scientific python stack for processing and visualizing data
 
 <!--
 **curtisma/curtisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
