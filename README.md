@@ -7,11 +7,11 @@ I'm an analog, RF, and Software Engineer
 - 💼 I work at [Skyworks](https://www.skyworksinc.com/) as an analog and RF designer working on SOI Switch development for cell phones
 - 📫 How to reach me: E-mail
 - 💻 Software Interests:
-  - [Python](https://www.python.org/) for design automation backend and frontend development
-  - [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation frontend development
-  - [Conda](https://docs.conda.io/en/latest/) for packaging
-  - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
+  - [Python](https://www.python.org/) & [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation backend and frontend development
   - [Scipy](https://www.scipy.org/) scientific python stack for processing and visualizing data
+  - [Conda](https://docs.conda.io/en/latest/) for packaging and environment management
+  - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
+
 
 <!--
 **curtisma/curtisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
