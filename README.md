@@ -8,7 +8,7 @@ I'm an analog, RF, and Software Engineer
 - 📫 How to reach me: Through E-mail
 - Software Interests:
   - Python for design automation backend development
-  - [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation front-end development
+  - [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation frontend development
   - [Conda](https://docs.conda.io/en/latest/) for packaging
   - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
 
