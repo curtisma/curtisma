@@ -2,8 +2,8 @@
 
 I'm an analog, RF, and Software Engineer
 
-- 🔭 I’m currently working on automating the design of Analog and RF Integrated circuits
-- 🤔 I’m looking for help starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
+- 🦾 I’m currently working on automating the design of Analog and RF Integrated circuits
+- 👯 I’m looking to collaborate on starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
 - 💼 I work at [Skyworks](https://www.skyworksinc.com/) as an analog and RF designer working on SOI Switch development for cell phones
 - 📫 How to reach me:  Open a post on my [profile discussion board](https://github.com/curtisma/curtisma/discussions) or E-mail
 - 💻 Software Interests:
