@@ -4,7 +4,7 @@ I'm an analog, mixed-signal, RF, and software design engineer.
 
 - 🦾 I’m currently working on automating the design of RF, analog, and mixed-signal Integrated circuits
 - 👯 I’m looking to collaborate on starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
-- 💼 I work at [Skyworks](https://www.skyworksinc.com/) as a design engineer working on SOI switch and CMOS development for cell phone analog frontends
+- 💼 I work at [Skyworks](https://www.skyworksinc.com/) as a design engineer working on SOI switch and CMOS development for cell phone RF frontends
 - ✨I'm also interested in developing a great engineering team and helping those I lead develop
   - Let me know if you have an interest in working together, we're always looking to hire remarkable candidates
 - 📫 You can reach me by Opening a post on my [profile discussion board](https://github.com/curtisma/curtisma/discussions)
