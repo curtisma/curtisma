@@ -10,8 +10,8 @@ I'm an analog, mixed-signal, RF, and software design engineer.
 - 📫 You can reach me by Opening a post on my [profile discussion board](https://github.com/curtisma/curtisma/discussions)
 - 💻 Software Interests:
   - [Python](https://www.python.org/) & [SKILL](https://www.cadence.com/en_US/home/training/all-courses/83018.html) for design automation backend and frontend development
-  - [Scipy](https://www.scipy.org/) scientific python stack for processing and visualizing data
-  - [Conda](https://docs.conda.io/en/latest/) for packaging and environment management
+  -[Scientific Python](https://scientific-python.org/) stack for processingand visualizing data
+  - [Conda](https://docs.conda.io/en/latest/) for package and environment management
   - [Sphinx](https://www.sphinx-doc.org/en/master/index.html) for documentation
   - [BAG](https://github.com/bluecheetah/bag) analog generator framework
 
