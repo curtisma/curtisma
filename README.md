@@ -5,7 +5,8 @@ I'm an analog, mixed-signal, RF, and software design engineer.
 - 🦾 I’m currently working on automating the design of RF, analog, and mixed-signal Integrated circuits
 - 👯 I’m looking to collaborate on starting the [cascode-labs](https://github.com/cascode-labs) organization supporting open source analog and RF IC design automation projects
 - 🔭 Projects include:
-- [Viper](https://github.com/cascode-labs/viper) open circuit design environment
+  - [Viper](https://github.com/cascode-labs/viper) open circuit design environment
+  - [viper-forge](http://www.cascode-labs.org/viper-forge/) community-lead circuit design packages
 - 💼 I work at [Skyworks](https://www.skyworksinc.com/) as a design engineer working on SOI switch and CMOS development for cell phone RF frontends
 - ✨Itnterested  in working on cuttinge  automated IC design? also interested in developing a great engineering team and helping those I lead develop
   - Let me know if you have an interest in working together, we're always looking to hire remarkable candidates
