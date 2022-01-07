@@ -10,7 +10,7 @@ organization to support open source analog and RF IC design automation projects
   - [Viper](http://www.cascode-labs.org/viper) open circuit design environment
   - [viper-forge](http://www.cascode-labs.org/viper-forge/) community-led
   circuit design packages
-- 💼 I work at [Skyworks](https://www.skyworksinc.com/) as a design engineer
+- 💼 I work at [Skyworks](https://github.com/skyworksinc) as a design engineer
 working on SOI switch and CMOS PA controller development for cell phone RF frontends
 - ✨Interested in working on cutting edge automated IC design? I'm
 developing a great engineering team and we're always looking to hire remarkable candidates
