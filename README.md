@@ -7,9 +7,18 @@ mixed-signal Integrated circuits
 - 👯 I’m starting the [cascode-labs](https://github.com/cascode-labs)
 organization to support open source analog and RF IC design automation projects
 - 🔭 Projects
-  - [Viper](http://www.cascode-labs.org/viper) open circuit design environment
-  - [viper-forge](http://www.cascode-labs.org/viper-forge/) community-led
-  circuit design packages
+  - [Virtue](https://www.cascode-labs.org/virtue/): A SKILL and Python Framework for automating IC design in
+[Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/circuit-design.html)
+  - [Softworks](https://github.com/cascode-labs/softworks):
+    Software and documentation view types in the Cadence Virtuoso IC design environment.
+  - [Data-panels](https://github.com/cascode-labs/data-panels):
+    Export rich data reports from simulation results to pptx slides and
+    xlsx tables
+  - [Morpheus](https://github.com/cascode-labs/morpheus):
+    Generate Maestro test benches in a standard way compatible with an associated
+    data-panels report
+  - [Viper](https://www.cascode-labs.org/viper/): Integrated circuit design environment supporting both free and commercial tools.
+  - [Viper-forge](https://www.cascode-labs.org/viper-forge/): Community-led packages for IC design
 - 💼 I work at [Skyworks](https://github.com/skyworksinc) as a design engineer
 working on SOI switch and CMOS PA controller development for cell phone RF frontends
 - ✨Interested in working on cutting edge automated IC design? I'm
